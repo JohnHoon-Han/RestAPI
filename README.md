@@ -1,7 +1,12 @@
-# RESTful API
+# RESTful API 진행사항
 
- Swagger API 추가 
- Config 파일에서 특정 컨트롤러 api만 호출하도록 추가가 필요해보인다. 
+ - Swagger API 추가 완료
+ - Config 파일에서 특정 컨트롤러 api만 호출하도록 추가가 필요해보인다. 
+ 
+ - Spring Security 추가 예정
+ 
+ 
+ 
  
  
  
