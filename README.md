@@ -8,4 +8,4 @@
  # 개발 이슈
  - Ajax 통신시 Jquery type 속성이 HTTP Method 값을 설정하는 부분이다. 
  - Controller 단에서 RequestMapping시 설정한 method값과 HTTP Method의 값이 일치하지 않으면 405 에러가 발생한다.
- -
+ 
